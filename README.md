@@ -1,3 +1,14 @@
+Ce projet universitaire consiste en la création partielle d’une interface inspirée d’un site de streaming. L’objectif n’était pas de développer une plateforme complète, mais de travailler les bases du HTML, du CSS, du JavaScript, du PHP ainsi que la gestion de bases de données avec phpMyAdmin.
+
+J’ai principalement conçu l’interface du site en intégrant des affiches de films et leurs descriptions. Plusieurs fonctionnalités ont été mises en place, notamment l’ajout de films aux favoris, la sélection d’un profil utilisateur et un espace administratrice permettant d’ajouter ou de supprimer un film.
+
+Le projet n’est pas finalisé, mais il m’a permis d’apprendre et de comprendre de nombreuses notions essentielles dans le développement web. 
+
+
+
+
+
+
 ## Installation et configuration du projet
 
 Rappel : Le sujet est [ici](https://docs.google.com/document/d/1MxM8H3PVpFOUG4-buM8BLXRv18PIHKrjf76EBzmINZs/edit?usp=sharing)
